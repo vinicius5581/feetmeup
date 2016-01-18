@@ -14,6 +14,8 @@ App for personal trainers &amp; trainees
     - [ ] Exercise profile  
   - [ ] Routines
     - [ ] Routine profile
+  - [ ] Sessions
+    - [ ] Session profile
   - [ ] Reports
 - [ ] App Connection
   - [ ] Nike
@@ -57,3 +59,4 @@ A routine is a collection of exercises
 - Should contain an end time
 - May contain exercices
 - May contain routines
+### Session Profile
